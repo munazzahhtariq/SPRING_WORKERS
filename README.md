@@ -1,6 +1,3 @@
-# SPRING_WORKERS  
-A Pthread-Based Producer–Consumer Operating System Simulation  
-
 # Spring Workers – Producer Consumer Operating System Simulation 
 
 ---
